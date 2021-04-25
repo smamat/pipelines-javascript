@@ -1,5 +1,4 @@
-
-https://dev.azure.com/saifulazaharmamat/az-pipelines/_apis/build/status/smamat.pipelines-javascript%20(1)?branchName=master
+[![Build Status](https://dev.azure.com/saifulazaharmamat/az-pipelines/_apis/build/status/smamat.pipelines-javascript%20(1)?branchName=master)](https://dev.azure.com/saifulazaharmamat/az-pipelines/_build/latest?definitionId=14&branchName=master)
 
 # Sample NodeJS application for Azure Pipelines docs
 
